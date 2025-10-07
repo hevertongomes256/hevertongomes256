@@ -46,16 +46,7 @@ Backend Developer with 4+ years of experience building robust web applications a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hevertongomes256&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff)
 
-## 🚀 Featured Projects
-
-- **Order Management System** - Django-based application with PDF generation and user authentication
-- **FastAPI Car Manager** - REST API for vehicle management with async SQLAlchemy
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hevertongomes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heverton.gomes2018@gmail.com)
-
----
-
-💡 [translate:Open to new opportunities and collaborations!]
