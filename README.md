@@ -2,13 +2,13 @@
 
 ## 💫 About Me
 
-[translate:Backend Developer] with 4+ years of experience building robust web applications and RESTful APIs[memory:1]. Passionate about creating efficient, scalable solutions using modern Python frameworks and cloud technologies[memory:2].
+Backend Developer with 4+ years of experience building robust web applications and RESTful APIs. Passionate about creating efficient, scalable solutions using modern Python frameworks and cloud technologies.
 
-🔭 Currently working with **Python**, **Django** and **FastAPI** to develop high-performance backend systems[memory:3]
+🔭 Currently working with **Python**, **Django** and **FastAPI** to develop high-performance backend systems
 
-🌱 Continuously learning and expanding expertise in async programming, database optimization, and cloud architecture[memory:4]
+🌱 Continuously learning and expanding expertise in async programming, database optimization, and cloud architecture
 
-💼 Experienced in full development lifecycle from design to deployment using Docker containers and cloud platforms and working with Frontend developer **Vuejs** [memory:5]
+💼 Experienced in full development lifecycle from design to deployment using Docker containers and cloud platforms and working with Frontend developer **Vuejs**
 
 ## 🛠️ Tech Stack
 
